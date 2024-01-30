@@ -3,6 +3,9 @@
 // @author pvnotpv
 // @version 1.0
 // @match *
+// @match https://*/*
+// @match http://*/*
+// @include     *
 
 window.onload = function() {
     // similar behavior as clicking on a link
